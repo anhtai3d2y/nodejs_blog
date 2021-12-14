@@ -24,11 +24,15 @@
     "homepage": "https://github.com/anhtai3d2y/nodejs_blog#readme",
     "dependencies": {
         "express": "^4.17.1",
-        "express-handlebars": "^6.0.2"
+        "express-handlebars": "^6.0.2",
+        "mongoose": "^6.1.1"
     },
     "devDependencies": {
+        "husky": "^7.0.4",
+        "lint-staged": "^12.1.2",
         "morgan": "^1.10.0",
         "node-sass": "^7.0.0",
-        "nodemon": "^2.0.15"
+        "nodemon": "^2.0.15",
+        "prettier": "^2.5.1"
     }
 }
